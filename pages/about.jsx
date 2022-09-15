@@ -10,14 +10,14 @@ export default function about() {
       <div style={{ backgroundColor: "whitesmoke" }}>
         <div
           className="d-flex mx-auto align-item-center vstack gap-2 py-5"
-          style={{ maxWidth: "700px", fontFamily: "Quicksand" }}
+          style={{ maxWidth: "600px", fontFamily: "Quicksand" }}
         >
           <span className="h2 mx-auto fw-bold">about me</span>
           <span style={{ maxWidth: "1000px" }} className="mx-auto">
             Hi, everyone. I'm Kritanon Suntabut or you can call me "Non". I'm 20
             years old. I'm studying in Computer Engineering, Chiang Mai
-            University. I’m interested in programming when i was in high school,
-            so I decided to study Computer programming. For my personality, I’m
+            University. I'm interested in programming when i was in high school,
+            so I decided to study Computer programming. For my personality, I'm
             kind of a very friendly person.
           </span>
         </div>
